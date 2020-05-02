@@ -1,5 +1,5 @@
 # OOP14
-Projek ini berisi file-file pendukung untuk OOP14
+Projek ini berisi file-file pendukung untuk Praktikum OOP 14
 
 # KONFIGURASI
 jika anda melakukan cloning pada projek di repo ini, dapat anda gunakan
