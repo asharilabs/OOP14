@@ -1,0 +1,11 @@
+C:\Users\asharilabs\source\repos\OOP_WithExample\OOP_WithExample\obj\Debug\netcoreapp3.1\OOP_WithExample.csprojAssemblyReference.cache
+C:\Users\asharilabs\source\repos\OOP_WithExample\OOP_WithExample\obj\Debug\netcoreapp3.1\OOP_WithExample.AssemblyInfoInputs.cache
+C:\Users\asharilabs\source\repos\OOP_WithExample\OOP_WithExample\obj\Debug\netcoreapp3.1\OOP_WithExample.AssemblyInfo.cs
+C:\Users\asharilabs\source\repos\OOP_WithExample\OOP_WithExample\bin\Debug\netcoreapp3.1\OOP_WithExample.exe
+C:\Users\asharilabs\source\repos\OOP_WithExample\OOP_WithExample\bin\Debug\netcoreapp3.1\OOP_WithExample.deps.json
+C:\Users\asharilabs\source\repos\OOP_WithExample\OOP_WithExample\bin\Debug\netcoreapp3.1\OOP_WithExample.runtimeconfig.json
+C:\Users\asharilabs\source\repos\OOP_WithExample\OOP_WithExample\bin\Debug\netcoreapp3.1\OOP_WithExample.runtimeconfig.dev.json
+C:\Users\asharilabs\source\repos\OOP_WithExample\OOP_WithExample\bin\Debug\netcoreapp3.1\OOP_WithExample.dll
+C:\Users\asharilabs\source\repos\OOP_WithExample\OOP_WithExample\bin\Debug\netcoreapp3.1\OOP_WithExample.pdb
+C:\Users\asharilabs\source\repos\OOP_WithExample\OOP_WithExample\obj\Debug\netcoreapp3.1\OOP_WithExample.dll
+C:\Users\asharilabs\source\repos\OOP_WithExample\OOP_WithExample\obj\Debug\netcoreapp3.1\OOP_WithExample.pdb
